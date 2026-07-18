@@ -170,6 +170,6 @@ End-to-end ML pipeline: Google Earth Engine → Random Forest/XGBoost → SHAP e
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:2C5364,100:0F2027&height=150&section=footer"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGpzODIyMnJocGtzdzl3ejEzcG1tZDU1enN4OGtvZGlienJqdGJ4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TrVla4Z2PYEkU/giphy.gif" width="100%"/>
 
 </div>
