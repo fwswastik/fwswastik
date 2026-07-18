@@ -1,46 +1,56 @@
+<h1 align="center">Hi 👋, I'm Swastik Mishra</h1>
+<h3 align="center">AI Developer • Full Stack Developer • Competitive Programmer • Open Source Enthusiast</h3>
 
-## Hi, I'm Swastik Mishra 👋
-I am a creator and developer passionate about the intersection of digital design, content production, and software development. I love building visually engaging experiences backed by solid, efficient code.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Building+AI+Applications;Full+Stack+Developer;Problem+Solver;Always+Learning+Something+New"/>
+</p>
 
-💻 Technical Skills
-Languages: C++, Java
+---
 
-Web Technologies: HTML, CSS, JavaScript
+## 🚀 About Me
 
-Design & Creative: [Add your design tools here, e.g., Figma, Adobe Creative Suite]
+💻 Passionate about AI, Web Development, and building impactful products.
 
-Tools & Platforms: [Add others, e.g., VS Code, Git, GitHub]
+🌱 Currently learning
+- Agentic AI
+- Multi-Agent Systems
+- System Design
 
-🚀 What I'm working on
-Blending creative design with clean, functional code.
+⚡ Fun Fact
+> I love building projects that solve real-world problems.
 
-Building projects that explore [mention a specific interest, e.g., web development, UI/UX, or algorithmic problem-solving].
+---
 
-Constantly learning and refining my technical stack.
+## 💻 Tech Stack
 
-📈 GitHub Stats
-(You can include these to show your coding progress)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,react,nodejs,mongodb,mysql,git,github,vscode,linux&perline=7"/>
+</p>
 
-📫 Let's Connect
-I'm always open to discussing new creative collaborations or technical projects.
+---
 
-LinkedIn: linkedin.com/in/swastik-mishra-og
+## 📊 GitHub Stats
 
+<p align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-Email: swastikgotrich@gmail.com
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
-<!--
-**fwswastik/fwswastik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&margin-w=15"/>
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
