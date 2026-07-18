@@ -12,10 +12,10 @@
   <a href="https://linkedin.com/in/swastik-mishra-og">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:swastikgotrich@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6"/>
+  <img src="https://komarev.com/ghpvc/?username=fwswastik&style=for-the-badge&color=0e75b6"/>
 </p>
 
 ---
@@ -60,9 +60,6 @@
 
 ### 🍳 PantryChef
 AI-powered recipe recommendation platform using available ingredients.
-
-### 📰 News Website
-Modern responsive news portal built using HTML, CSS and JavaScript.
 
 ### 🤖 Agentic AI Projects
 Exploring autonomous AI agents and multi-agent systems.
@@ -122,7 +119,7 @@ Building innovative solutions through hackathons and competitions.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:swastikgotrich@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
