@@ -27,15 +27,15 @@
 <td width="60%" valign="top">
 
 🎓 &nbsp;Computer Science student @ **PW Institute of Innovation**
-&nbsp;
+&nbsp;<br>
 💼 &nbsp;Currently working at **Ami Gagnant Pvt. Ltd.**
-&nbsp;
+&nbsp;<br>
 🤖 &nbsp;Deep in **Agentic AI** and **Multi-Agent Systems** right now
-&nbsp;
+&nbsp;<br>
 🛰️ &nbsp;Hackathon regular — satellite imagery, urban ML, you name it
-&nbsp;
+&nbsp;<br>
 🎬 &nbsp;Off-screen: video editing, cinematic storytelling, fitness
-&nbsp;
+&nbsp;<br>
 ⚡ &nbsp;I ship real projects, not just tutorials
 
 <br/>
